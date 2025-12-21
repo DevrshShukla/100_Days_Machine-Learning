@@ -2,16 +2,6 @@
 
 Machine Learning (ML) is a subset of Artificial Intelligence (AI) that allows systems to **learn from data and improve automatically** without being explicitly programmed.
 
-            🤖 Machine Learning
-                     │
-    ┌────────────────┼────────────────┐
-    │                │                │
-✅ Supervised 🔍 Unsupervised 🎮 Reinforcement
-│ │ │
-┌────┴────┐ ┌─────┼─────┐ │
-│ │ │ │ │ │
-📊Regression 🏷Classification 🧩Clustering 🔻Dimensionality 🔗Association 🎯Reward-based
-
 Based on the learning approach, Machine Learning is mainly divided into **three categories**:
 
 1. **Supervised Learning**
@@ -145,3 +135,4 @@ This classification helps choose the **right ML approach** based on the problem 
 ---
 
 📌 *Part of the **100 Days of Machine Learning** series*
+
