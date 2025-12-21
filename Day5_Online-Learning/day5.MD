@@ -1,9 +1,4 @@
 # 🔁 Online Learning in Machine Learning
-
-**Video Reference:** https://youtu.be/3oOipgCbLIk  
-**Series:** 100 Days of Machine Learning  
-**Level:** Beginner
-
 ---
 
 ## 📘 What is Online Learning?
@@ -110,3 +105,4 @@ Online Learning is best when:
 ---
 
 🚀 *Part of the **100 Days of Machine Learning** GitHub Series*
+
