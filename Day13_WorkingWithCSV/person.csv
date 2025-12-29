@@ -1,0 +1,11 @@
+Age,Salary,Experience_Years,Education_Level,Purchased_Product
+22,25000,0,Bachelor,0
+25,30000,1,Bachelor,0
+47,50000,5,Master,1
+35,42000,3,Bachelor,1
+52,60000,10,PhD,1
+46,58000,8,Master,1
+29,32000,2,Bachelor,0
+41,52000,6,Master,1
+39,48000,4,Bachelor,1
+28,34000,1,Bachelor,0
